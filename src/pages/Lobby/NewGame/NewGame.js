@@ -44,7 +44,7 @@ export default function NewGame() {
                 </Typography>
               )}
               <Typography variant="h4" style={{ marginBottom: 64 }}>
-                BattleStax
+                PTE Leader Challenge
               </Typography>
               <Typography color="textSecondary">game code</Typography>
               <Typography variant="h1" className="highlight">

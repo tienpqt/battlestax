@@ -29,7 +29,7 @@ export default function TitleBar({
             color="textSecondary"
             style={{ padding: 8 }}
           >
-            BattleStax
+            PTE Leader Challenge
           </Typography>
         </Grid>
         <Grid item style={{ flexShrink: 0 }}>
