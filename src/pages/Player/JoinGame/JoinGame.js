@@ -36,9 +36,9 @@ export default function JoinGame() {
         style={{ width: 320 }}
       >
         <Grid item style={{ width: 300, marginBottom: 16 }}>
-          <Typography color="textSecondary">welcome to</Typography>
+          <Typography color="textSecondary">Welcome to</Typography>
           <Typography variant="h5" paragraph>
-            BattleStax
+            PTE Leader Challenge
           </Typography>
         </Grid>
 
