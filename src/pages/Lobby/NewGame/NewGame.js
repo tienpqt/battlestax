@@ -40,11 +40,11 @@ export default function NewGame() {
               )}
               {!_.isEmpty(players) && (
                 <Typography color="textSecondary">
-                  thanks for playing
+                  thanks for joining us
                 </Typography>
               )}
               <Typography variant="h4" style={{ marginBottom: 64 }}>
-                PTE Leader Challenge
+                PTE Leader
               </Typography>
               <Typography color="textSecondary">game code</Typography>
               <Typography variant="h1" className="highlight">
@@ -59,7 +59,7 @@ export default function NewGame() {
                 variant="contained"
                 color="primary"
               >
-                start new game
+                start new challenge
               </Button>
             </Grid>
             <PlayerList
