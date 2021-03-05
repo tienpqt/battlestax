@@ -43,7 +43,7 @@ export default function NewGame() {
                   thanks for joining us
                 </Typography>
               )}
-              <Typography variant="h4" style={{ marginBottom: 64 }}>
+              <Typography variant="h4"  className="highlight-pte" style={{ marginBottom: 64 }}>
                 PTE Leader
               </Typography>
               <Typography color="textSecondary">game code</Typography>
@@ -59,7 +59,7 @@ export default function NewGame() {
                 variant="contained"
                 color="primary"
               >
-                start new challenge
+                start challenge
               </Button>
             </Grid>
             <PlayerList

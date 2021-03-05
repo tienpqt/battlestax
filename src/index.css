@@ -14,6 +14,18 @@ body,
 .highlight {
   display: inline-block;
   padding: 20px 20px 10px 20px;
+  background-color: #ac2330;
+  color: #303030;
+}
+.highlight-pte {
+  display: inline-block;
+  padding: 20px 20px 10px 20px;
+  
+  color: #5cb85c;
+}
+.highlight-old {
+  display: inline-block;
+  padding: 20px 20px 10px 20px;
   background-color: #ffb74d;
   color: #303030;
 }
