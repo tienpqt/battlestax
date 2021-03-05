@@ -15,7 +15,7 @@ export default function AddPlayers() {
       <Grid item>
         <Typography color="textSecondary">welcome to</Typography>
         <Typography variant="h4" style={{ marginBottom: 64 }}>
-          PTE Leader Challenge
+          PTE Leader
         </Typography>
         <Typography color="textSecondary">game code</Typography>
         <Typography variant="h1" className="highlight">
