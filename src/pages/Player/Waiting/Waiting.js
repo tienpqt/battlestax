@@ -18,7 +18,7 @@ export default function Waiting() {
       <React.Fragment>
         <Grid item xs={12}>
           <Typography paragraph variant="caption">
-            Enjoy a random XKCD while you wait!
+            Enjoy a random PTE Exam TIPS (or comics) while you wait!
           </Typography>
         </Grid>
         <Grid item xs={12} style={{ textAlign: "center" }}>
