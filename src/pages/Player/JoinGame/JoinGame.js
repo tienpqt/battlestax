@@ -38,7 +38,7 @@ export default function JoinGame() {
         <Grid item style={{ width: 300, marginBottom: 16 }}>
           <Typography color="textSecondary">Welcome to</Typography>
           <Typography variant="h5" paragraph>
-            PTE Leader AI Challenge
+            PTE Leader Challenge
           </Typography>
         </Grid>
 
